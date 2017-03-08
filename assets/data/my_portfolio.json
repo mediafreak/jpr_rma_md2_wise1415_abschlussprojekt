@@ -1,0 +1,975 @@
+[
+    {
+        "title": "Animation „Schauzeit“",
+        "tags": "Animation",
+        "thumbnail": "assets/img/thumb/animation.png",
+        "content_items": [
+            {
+                "render_container": "left",
+                "type": "detail",
+                "content": [
+                    {
+                        "thumb": "assets/content/img/thumb/animation_schauzeit_step1.png",
+                        "detail": [
+                            {
+                                "mediatype": "video",
+                                "desc": "Animation in After Effects Step 1 – Einfacher Scribble-Effekt",
+                                "src": "assets/content/media/animation_schauzeit_step1.ogv",
+                                "stand": "assets/content/img/animation_schauzeit_step1.jpg"
+                            }
+                        ]
+                    },
+                    {
+                        "thumb": "assets/content/img/thumb/animation_schauzeit_step2.png",
+                        "detail": [
+                            {
+                                "mediatype": "video",
+                                "desc": "Animation in After Effects Step 2 – Versetzter Scribble-Effekt",
+                                "src": "assets/content/media/animation_schauzeit_step2.ogv",
+                                "stand": "assets/content/img/animation_schauzeit_step2.jpg"
+                            }
+                        ]
+                    },
+                    {
+                        "thumb": "assets/content/img/thumb/animation_schauzeit_step3.png",
+                        "detail": [
+                            {
+                                "mediatype": "video",
+                                "desc": "Animation in After Effects Step 3 – Konstruktionslinien",
+                                "src": "assets/content/media/animation_schauzeit_step3.ogv",
+                                "stand": "assets/content/img/animation_schauzeit_step3.jpg"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "render_container": "right",
+                "type": "task",
+                "content": [
+                    {
+                        "src": "assets/content/texte/animation_schauzeit.html"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Beleuchtung",
+        "tags": "Gestalten mit Licht",
+        "thumbnail": "assets/img/thumb/beleuchtung.png",
+        "content_items": [
+            {
+                "render_container": "left",
+                "type": "detail",
+                "content": [
+                    {
+                        "thumb": "assets/content/img/thumb/beleuchtung_modeshooting.png",
+                        "detail": [
+                            {
+                                "mediatype": "image",
+                                "desc": "Modeshooting – Fotostudio",
+                                "src": "assets/content/img/AbbMode.jpg",
+                                "stand": "assets/content/img/beleuchtung_modeshooting.jpg"
+                            }
+                        ]
+                    },
+                    {
+                        "thumb": "assets/content/img/thumb/beleuchtung_urlaubsshooting.png",
+                        "detail": [
+                            {
+                                "mediatype": "image",
+                                "desc": "Alltagsfotografie – Outdoor-Urlaubsshooting",
+                                "src": "assets/content/img/AbbPortraitHell.jpg",
+                                "stand": "assets/content/img/beleuchtung_urlaubsshooting.jpg"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "render_container": "right",
+                "type": "task",
+                "content": [
+                    {
+                        "src": "assets/content/texte/beleuchtung_modeshooting.html"
+                    },
+                    {
+                        "src": "assets/content/texte/beleuchtung_urlaubsshooting.html"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Beleuchtungssituationen",
+        "tags": "Gestalten mit Licht",
+        "thumbnail": "assets/img/thumb/beleuchtungssituation.png",
+        "content_items": [
+            {
+                "render_container": "left",
+                "type": "detail",
+                "content": [
+                    {
+                        "thumb": "assets/content/img/thumb/beleuchtung_tomate.png",
+                        "detail": [
+                            {
+                                "mediatype": "image",
+                                "desc": "1 Diffuses Licht von oben – kaum Schatten",
+                                "src": "assets/content/img/Tomate_schatten_wenig_diffuses_licht_o.jpg"
+                            },
+                            {
+                                "mediatype": "image",
+                                "desc": "2 Direktes Licht von vorne rechts",
+                                "src": "assets/content/img/Tomate_schatten_direktes_licht_vr.jpg"
+                            },
+                            {
+                                "mediatype": "image",
+                                "desc": "3 Direktes Licht von oben",
+                                "src": "assets/content/img/Tomate_schatten_direktes_licht_o.jpg"
+                            },
+                            {
+                                "mediatype": "image",
+                                "desc": "4 Spot Licht von vorne rechts – Tomatenkraut wirft dramatischen Schatten",
+                                "src": "assets/content/img/Tomate_schatten_spot_licht_vr.jpg"
+                            },
+                            {
+                                "mediatype": "image",
+                                "desc": "5 Diffuses Licht von vorne rechts",
+                                "src": "assets/content/img/Tomate_schatten_diffuses_licht_vr.jpg"
+                            },
+                            {
+                                "mediatype": "image",
+                                "desc": "6 Direktes Licht von hinten",
+                                "src": "assets/content/img/Tomate_schatten_direktes_licht_h.jpg"
+                            }
+                        ]
+                    },
+                    {
+                        "thumb": "assets/content/img/thumb/beleuchtung_apfel.png",
+                        "detail": [
+
+                            {
+                                "mediatype": "image",
+                                "desc": "1 Direktes Licht von links ohne Farbfilter (Entwurf)",
+                                "src": "assets/content/img/Apfel_Licht_ohne-Farbfilter.jpg"
+                            },{
+                                "mediatype": "image",
+                                "desc": "2a Rotes und blaues Licht von links (Entwurf)",
+                                "src": "assets/content/img/Apfel_Licht_rot_l.jpg"
+                            },
+                            {
+                                "mediatype": "image",
+                                "desc": "2b Beleuchtungssituation für rotes und blaues Licht von links (Entwurf)",
+                                "src": "assets/content/img/Apfel_Licht_rot_l_bsit.jpg"
+                            },
+                            {
+                                "mediatype": "image",
+                                "desc": "3a Grünes Licht von links (Entwurf)",
+                                "src": "assets/content/img/Apfel_Licht_gruen_l.jpg"
+                            },
+                            {
+                                "mediatype": "image",
+                                "desc": "3b Beleuchtungssituation für grünes Licht von links (Entwurf)",
+                                "src": "assets/content/img/Apfel_Licht_gruen_l_bsit.jpg"
+                            },
+                            {
+                                "mediatype": "image",
+                                "desc": "4a Blaues Licht von links (Entwurf)",
+                                "src": "assets/content/img/Apfel_Licht_blau_l.jpg"
+                            },
+                            {
+                                "mediatype": "image",
+                                "desc": "4b Beleuchtungssituation für blaues Licht von links (Entwurf)",
+                                "src": "assets/content/img/Apfel_Licht_blau_l_bsit.jpg"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "render_container": "right",
+                "type": "task",
+                "content": [
+                    {
+                        "src": "assets/content/texte/beleuchtungssituation_tomate.html"
+                    },
+                    {
+                        "src": "assets/content/texte/beleuchtungssituation_apfel.html"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Bildagenturen",
+        "tags": "Gestalten mit Licht",
+        "thumbnail": "assets/img/thumb/bildagenturen.png",
+        "content_items": [
+            {
+                "render_container": "left",
+                "type": "detail",
+                "content": [
+                    {
+                        "thumb": "assets/content/img/thumb/bildagentur_corbis.png",
+                        "detail": [
+                            {
+                                "mediatype": "html",
+                                "desc": "corbis®IMAGES",
+                                "src": "assets/content/texte/bildagentur_corbis.html",
+                                "stand": "assets/content/img/bildagentur_corbis.jpg"
+                            }
+                        ]
+                    },
+                    {
+                        "thumb": "assets/content/img/thumb/bildagentur_gettyimages.png",
+                        "detail": [
+                            {
+                                "mediatype": "html",
+                                "desc": "gettyimages®",
+                                "src": "assets/content/texte/bildagentur_gettyimages.html",
+                                "stand": "assets/content/img/bildagentur_gettyimages.jpg"
+                            }
+                        ]
+                    },
+                    {
+                        "thumb": "assets/content/img/thumb/bildagentur_magnum.png",
+                        "detail": [
+                            {
+                                "mediatype": "html",
+                                "desc": "MAGNUM P H O T O S",
+                                "src": "assets/content/texte/bildagentur_magnum.html",
+                                "stand": "assets/content/img/bildagentur_magnum.jpg"
+                            }
+                        ]
+                    },
+                    {
+                        "thumb": "assets/content/img/thumb/bildagentur_ostkreuz.png",
+                        "detail": [
+                            {
+                                "mediatype": "html",
+                                "desc": "OSTKREUZ Agentur der Fotografen",
+                                "src": "assets/content/texte/bildagentur_ostkreuz.html",
+                                "stand": "assets/content/img/bildagentur_ostkreuz.jpg"
+                            }
+                        ]
+                    },
+                    {
+                        "thumb": "assets/content/img/thumb/bildportal_flickr.png",
+                        "detail": [
+                            {
+                                "mediatype": "html",
+                                "desc": "flickr",
+                                "src": "assets/content/texte/bildportal_flickr.html",
+                                "stand": "assets/content/img/bildportal_flickr.jpg"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "render_container": "right",
+                "type": "task",
+                "content": [
+                    {
+                        "src": "assets/content/texte/bildagenturen.html"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Brennweiten",
+        "tags": "Gestalten mit Licht",
+        "thumbnail": "assets/img/thumb/brennweiten.png",
+        "content_items": [
+            {
+                "render_container": "left",
+                "type": "detail",
+                "content": [
+                    {
+                        "thumb": "assets/content/img/thumb/brennweite_01.png",
+                        "detail": [
+                            {
+                                "mediatype": "image",
+                                "desc": "1: f/32 – 1/80s – ISO3200 – 300mm",
+                                "src": "assets/content/img/Brennweiten_01.jpg"
+                            }
+                        ]
+                    }, {
+                        "thumb": "assets/content/img/thumb/brennweite_02.png",
+                        "detail": [
+                            {
+                                "mediatype": "image",
+                                "desc": "2: f/20 – 1/320s – ISO3200 – 238mm",
+                                "src": "assets/content/img/Brennweiten_02.jpg"
+                            }
+                        ]
+                    },{
+                        "thumb": "assets/content/img/thumb/brennweite_03.png",
+                        "detail": [
+                            {
+                                "mediatype": "image",
+                                "desc": "3: f/11 – 1/320s – ISO1000 – 168mm",
+                                "src": "assets/content/img/Brennweiten_03.jpg"
+                            }
+                        ]
+                    },{
+                        "thumb": "assets/content/img/thumb/brennweite_04.png",
+                        "detail": [
+                            {
+                                "mediatype": "image",
+                                "desc": "4: f/16 – 1/80s – ISO250 – 50mm",
+                                "src": "assets/content/img/Brennweiten_04.jpg"
+                            }
+                        ]
+                    },{
+                        "thumb": "assets/content/img/thumb/brennweite_05.png",
+                        "detail": [
+                            {
+                                "mediatype": "image",
+                                "desc": "5: f/5,6 – 1/250s – ISO100 – 17mm",
+                                "src": "assets/content/img/Brennweiten_05.jpg"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "render_container": "right",
+                "type": "task",
+                "content": [
+                    {
+                        "src": "assets/content/texte/brennweiten.html"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "CD – Moodboard",
+        "tags": "Corporate Design (CD)",
+        "thumbnail": "assets/img/thumb/cd_moodboard.png",
+        "content_items": [
+            {
+                "render_container": "left",
+                "type": "detail",
+                "content": [
+                    {
+                        "thumb": "assets/content/img/thumb/cd_markenpyramide.png",
+                        "detail": [
+                            {
+                                "mediatype": "image",
+                                "desc": "Markenpyramide",
+                                "src": "assets/content/img/cd_roberta_markenpyramide.jpg",
+                                "stand":"assets/content/img/cd_roberta_markenpyramide_stand.jpg"
+                            }
+                        ]
+                    },{
+                    "thumb": "assets/content/img/thumb/cd_moodboard.png",
+                    "detail": [
+                        {
+                            "mediatype": "image",
+                            "desc": "Moodboard",
+                            "src": "assets/content/img/cd_roberta_moodboard.jpg",
+                            "stand":"assets/content/img/cd_roberta_moodboard_stand.jpg"
+                        }
+                    ]
+                }, {
+                        "thumb": "assets/content/img/thumb/cd_briefing.png",
+                        "detail": [
+                            {
+                                "mediatype": "image",
+                                "desc": "Briefinggespräch",
+                                "src": "assets/content/img/cd_roberta_briefinggespraech.jpg",
+                                "stand":"assets/content/img/cd_roberta_briefinggespraech_stand.jpg"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "render_container": "right",
+                "type": "task",
+                "content": [
+                    {
+                        "src": "assets/content/texte/cd_moodboard.html"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "CD – Ausarbeitung",
+        "tags": "Corporate Design (CD)",
+        "thumbnail": "assets/img/thumb/cd_entwicklung.png",
+        "content_items": [
+            {
+                "render_container": "left",
+                "type": "detail",
+                "content": [
+                    {
+                        "thumb": "assets/content/img/thumb/cd_roberta_schokoladen_vp.png",
+                        "detail": [
+                            {
+                                "mediatype": "image",
+                                "desc": "Roberta Schokoladenverpackung",
+                                "src": "assets/content/img/cd_roberta_schokoladenverpackung.jpg",
+                                "stand": "assets/content/img/cd_roberta_schokoladen_vp_stand.jpg"
+                            }
+                        ]
+                    }, {
+                        "thumb": "assets/content/img/thumb/cd_roberta_vk.png",
+                        "detail": [
+                            {
+                                "mediatype": "image",
+                                "desc": "Roberta Visitenkarte",
+                                "src": "assets/content/img/cd_roberta_visitenkarten_ds.jpg",
+                                "stand": "assets/content/img/cd_roberta_vk_stand.jpg"
+                            }
+                        ]
+                    }, {
+                        "thumb": "assets/content/img/thumb/cd_roberta_webseite.png",
+                        "detail": [
+                            {
+                                "mediatype": "image",
+                                "desc": "Roberta Webseite (finale Version)",
+                                "src": "assets/content/img/cd_roberta_webseite_01_Seite_1.jpg",
+                                "stand": "assets/content/img/cd_roberta_webseite_01_stand.jpg"
+                            },
+                            {
+                                "mediatype": "image",
+                                "desc": "Roberta Webseite (Entwurf 1) – Header drückt ein wenig auf Content",
+                                "src": "assets/content/img/cd_roberta_webseite_01_Seite_2.jpg",
+                                "stand": "assets/content/img/cd_roberta_webseite_01_Seite_2.jpg"
+                            },{
+                                "mediatype": "pdf",
+                                "desc": "Roberta Webseite (Entwurf 2) – Bohne als Ganzes kommt sonst im CD nicht vor",
+                                "src": "assets/content/img/cd_roberta_webseite_01_Seite_3.jpg",
+                                "stand": "assets/content/img/cd_roberta_webseite_01_Seite_3.jpg"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "render_container": "right",
+                "type": "task",
+                "content": [
+                    {
+                        "src": "assets/content/texte/cd_entwicklung.html"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Farbgegensätze",
+        "tags": "Gestalten mit Licht",
+        "thumbnail": "assets/img/thumb/farbgegensaetze.png",
+        "content_items": [
+            {
+                "render_container": "left",
+                "type": "detail",
+                "content": [
+                    {
+                        "thumb": "assets/content/img/thumb/farbgegensaetze_02.png",
+                        "detail": [
+                            {
+                                "mediatype": "image",
+                                "desc": "Gedämpfte Farben und starke Farben (Blumen)",
+                                "src": "assets/content/img/Farbgegensaetze_stark_schwach.jpg",
+                                "stand":"assets/content/img/Farbgegensaetze_stark_schwach_stand.jpg"
+                            },
+                            {
+                                "mediatype": "image",
+                                "desc": "Gedämpfte Farben und starke Farben (Sportjacken)",
+                                "src": "assets/content/img/Farbgegensaetze_stark_schwach2.jpg",
+                                "stand":"assets/content/img/Farbgegensaetze_stark_schwach2_stand.jpg"
+                            }
+                        ]
+                    },{
+                        "thumb": "assets/content/img/thumb/farbgegensaetze_01.png",
+                        "detail": [
+                            {
+                                "mediatype": "image",
+                                "desc": "Komplementärkontrast (Rot/Grün) – Ton in Ton (Rot)",
+                                "src": "assets/content/img/Farbgegensaetze_farbkontrast_toninton.jpg",
+                                "stand": "assets/content/img/Farbgegensaetze_farbkontrast_toninton_stand.jpg"
+                            },
+                            {
+                                "mediatype": "image",
+                                "desc": "Komplementärkontrast (Blau/Gelb) – Ton in Ton (Blau)",
+                                "src": "assets/content/img/Farbgegensaetze_farbkontrast_toninton2.jpg",
+                                "src": "assets/content/img/Farbgegensaetze_farbkontrast_toninton2.jpg"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "render_container": "right",
+                "type": "task",
+                "content": [
+                    {
+                        "src": "assets/content/texte/farbgegensaetze_01.html"
+                    },
+                    {
+                        "src": "assets/content/texte/farbgegensaetze_02.html"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Freistellen – Hund",
+        "tags": "Freistellen und Montage",
+        "thumbnail": "assets/img/thumb/freistellen_hund.png",
+        "content_items": [
+            {
+                "render_container": "left",
+                "type": "detail",
+                "content": [
+                    {
+                        "thumb": "assets/content/img/thumb/UebFreistellenHund_Pilz_vorher.png",
+                        "detail": [
+                            {
+                                "mediatype": "image",
+                                "desc": "Hundefoto original",
+                                "src": "assets/content/img/UebFreistellenHund_Pilz_vorher.jpg",
+                                "stand":"assets/content/img/UebFreistellenHund_Pilz_vorher_stand.jpg"
+                            }
+                        ]
+                    },
+                    {
+                        "thumb": "assets/content/img/thumb/UebFreistellenHund_Pilz_nachher.png",
+                        "detail": [
+                            {
+                                "mediatype": "image",
+                                "desc": "Hundefoto freigestellt und mit Tonwertkorrektur",
+                                "src": "assets/content/img/UebFreistellenHund_Pilz_nachher.jpg",
+                                "stand":"assets/content/img/UebFreistellenHund_Pilz_nachher_stand.jpg"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "render_container": "right",
+                "type": "task",
+                "content": [
+                    {
+                        "src": "assets/content/texte/freisteller_hund_vor.html"
+                    },
+                    {
+                        "src": "assets/content/texte/freisteller_hund_nach.html"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Gebrauchsanweisung",
+        "tags": "Webprojekt",
+        "thumbnail": "assets/img/thumb/gebrauchsanweisung.png",
+        "content_items": [
+        {
+            "render_container": "left",
+            "type": "detail",
+            "content": [
+                {
+                    "thumb": "assets/content/img/thumb/gebrauchsanweisung_knopf.png",
+                    "detail": [
+                        {
+                            "mediatype": "swf",
+                            "desc": "Gebrauchsanweisung „Knopf annähen“",
+                            "src": "assets/content/media/Gebrauchsanweisung_Knopf.swf",
+                            "stand": "assets/content/img/gebrauchsanweisung_knopf_stand.jpg"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "render_container": "right",
+            "type": "task",
+            "content": [
+                {
+                    "src": "assets/content/texte/gebrauchsanweisung.html"
+                }
+            ]
+        }
+    ]
+    },
+    {
+        "title": "Panorama",
+        "tags": "Freistellen und Montage",
+        "thumbnail": "assets/img/thumb/panorama.png",
+        "content_items": [
+            {
+                "render_container": "left",
+                "type": "detail",
+                "content": [
+                    {
+                        "thumb": "assets/content/img/thumb/panorama_bodemuseum_monbijoupark.png",
+                        "detail": [
+                            {
+                                "mediatype": "image",
+                                "desc": "Panorama über Photoshop erstellt",
+                                "src": "assets/content/img/panorama_bodemuseum_monbijoupark.jpg",
+                                "stand":"assets/content/img/panorama_bodemuseum_monbijoupark_stand.jpg"
+                            }
+                        ]
+                    },
+                    {
+                        "thumb": "assets/content/img/thumb/panorama_transformiert.png",
+                        "detail": [
+                            {
+                                "mediatype": "image",
+                                "desc": "Panorama freigestellt – Der Roboter sitz auf einem Elch",
+                                "src": "assets/content/img/panorama_transformiert.jpg",
+                                "stand":"assets/content/img/panorama_transformiert_stand.jpg"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "render_container": "right",
+                "type": "task",
+                "content": [
+                    {
+                        "src": "assets/content/texte/panorama.html"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Person und CD-Cover",
+        "tags": "Freistellen und Montage",
+        "thumbnail": "assets/img/thumb/person_cd_cover.png",
+        "content_items": [
+            {
+                "render_container": "left",
+                "type": "detail",
+                "content": [
+                    {
+                        "thumb": "assets/content/img/thumb/Cover_BlackCatRagVioline.png",
+                        "detail": [
+                            {
+                                "mediatype": "image",
+                                "desc": "Person leicht von unten fotografiert. Geige composed und Geigentapete über Muster erzeugt.",
+                                "src": "assets/content/img/cover_blackcatragvioline.jpg",
+                                "stand":"assets/content/img/cover_blackcatragvioline_stand.jpg"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "render_container": "right",
+                "type": "task",
+                "content": [
+                    {
+                        "src": "assets/content/texte/person_cover.html"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Portfolio",
+        "tags": "Webprojekt",
+        "thumbnail": "assets/img/thumb/portfolio.png",
+        "content_items": [
+            {
+                "render_container": "left",
+                "type": "detail",
+                "content": [
+                    {
+                        "thumb": "assets/content/img/thumb/portfolio_aufbau.png",
+                        "detail": [
+                            {
+                                "mediatype": "image",
+                                "desc": "Startseite – Grid of Equals – alle Übungen sind mit einem Klick erreichbar. Die Punzen-Form des P ist gestalterisches Element des Portfolio",
+                                "src": "assets/content/img/portfolio_1.jpg",
+                                "stand":"assets/content/img/portfolio_1.jpg"
+                            },{
+                                "mediatype": "image",
+                                "desc": "Bei Auswahl über Menü werden alle dazugehörigen Thumbnails hervorgehoben. ",
+                                "src": "assets/content/img/portfolio_2.jpg",
+                                "stand":"assets/content/img/portfolio_2.jpg"
+                            },{
+                                "mediatype": "image",
+                                "desc": "Die Detalansicht zeigt grundsätzlich die Aufgabenstellung und dazugehörige Lösungen mit Thumbnails und Previewsfenster.",
+                                "src": "assets/content/img/portfolio_3.jpg",
+                                "stand":"assets/content/img/portfolio_3.jpg"
+                            },{
+                                "mediatype": "image",
+                                "desc": "Über das Preview-Fenster gelangt der User zur Lightbox mit vergrößerter Ansicht und Slideshow.",
+                                "src": "assets/content/img/portfolio_4.jpg",
+                                "stand":"assets/content/img/portfolio_4.jpg"
+                            }
+                        ]
+                    },
+                    {
+                        "thumb": "assets/content/img/thumb/portfolio_raster.png",
+                        "detail": [
+                            {
+                                "mediatype": "image",
+                                "desc": "Das Raster der Startseite zeigt das Grid of Equals. An diesem Raster richten sich die Folgeseiten aus.",
+                                "src": "assets/content/img/portfolio_5.jpg",
+                                "stand":"assets/content/img/portfolio_5.jpg"
+                            },{
+                                "mediatype": "image",
+                                "desc": "Hervorhebung der zum Menüpunkt dazugehörigen Thumbnails.",
+                                "src": "assets/content/img/portfolio_6.jpg",
+                                "stand":"assets/content/img/portfolio_6.jpg"
+                            },{
+                                "mediatype": "image",
+                                "desc": "Elemente der Detalansicht. Durch linke Navigation kann zur nächsten oder vorangegangenen Aufgabe sowie zum Grid zurück gesprungen werden.",
+                                "src": "assets/content/img/portfolio_7.jpg",
+                                "stand":"assets/content/img/portfolio_8.jpg"
+                            },{
+                                "mediatype": "image",
+                                "desc": "Die Ansicht in der Lightbox enthält immer einen Titel bzw. eine nähere Beschreibung.",
+                                "src": "assets/content/img/portfolio_8.jpg",
+                                "stand":"assets/content/img/portfolio_9.jpg"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "render_container": "right",
+                "type": "task",
+                "content": [
+                    {
+                        "src": "assets/content/texte/portfolio.html"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Schwarzweiß-Bild",
+        "tags": "Gestalten mit Licht",
+        "thumbnail": "assets/img/thumb/schwarzweiss.png",
+        "content_items": [
+            {
+                "render_container": "left",
+                "type": "detail",
+                "content": [
+                    {
+                        "thumb": "assets/content/img/thumb/Selbstportrait_orig.png",
+                        "detail": [
+                            {
+                                "mediatype": "image",
+                                "desc": "1 Selbstportrait original - f/4,5 – 1/10s – ISO400 – 135mm",
+                                "src": "assets/content/img/Selbstportrait_orig.jpg",
+                                "stand": "assets/content/img/Selbstportrait_orig.jpg"
+                            }
+                        ]
+                    },
+                    {
+                        "thumb": "assets/content/img/thumb/selbstportrait_verlaufsumsetzung.png",
+                        "detail": [
+                            {
+                                "mediatype": "image",
+                                "desc": "2 Schwarzweißumwandlung über Verlaufsumsetzung – Details zum Teil zu weich (roter Kanal dominiert)",
+                                "src": "assets/content/img/selbstportrait_verlaufsumsetzung.jpg",
+                                "stand": "assets/content/img/selbstportrait_verlaufsumsetzung.jpg"
+                            }
+                        ]
+                    },
+                    {
+                        "thumb": "assets/content/img/thumb/selbstportrait_schwarzweiss_filter.png",
+                        "detail": [
+                            {
+                                "mediatype": "image",
+                                "desc": "3 Schwarzweißumwandlung über Schwarzweiß-Ebenenfilter (50/30/20/90/60/30) – Starker Kontrast, Hautton wird dunkler, Augenweiß heller (blauer Kanal dominiert)",
+                                "src": "assets/content/img/selbstportrait_schwarzweiss_filter.jpg",
+                                "stand": "assets/content/img/selbstportrait_schwarzweiss_filter.jpg"
+                            }
+                        ]
+                    },
+                    {
+                        "thumb": "assets/content/img/thumb/selbstportrait_kanalmixer.png",
+                        "detail": [
+                            {
+                                "mediatype": "image",
+                                "desc": "4 Schwarzweißumwandlung über Kanalmixer R: 35, G: 20, B: 45 – für gewünschten mittleren Kontrast",
+                                "src": "assets/content/img/selbstportrait_kanalmixer.jpg",
+                                "stand": "assets/content/img/selbstportrait_kanalmixer.jpg"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "render_container": "right",
+                "type": "task",
+                "content": [
+                    {
+                        "src": "assets/content/texte/schwarzweiss.html"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Tiefenschärfe",
+        "tags": "Gestalten mit Licht",
+        "thumbnail": "assets/img/thumb/tiefeschaerfe.png",
+        "content_items": [
+            {
+                "render_container": "left",
+                "type": "detail",
+                "content": [
+                    {
+                        "thumb": "assets/content/img/thumb/steine_unscharf.png",
+                        "detail": [
+                            {
+                                "mediatype": "image",
+                                "desc": "Offene Blende – Nur ein bestimmter Teil ist scharf: f/2,8 – 1/2500s – ISO400 – 50mm",
+                                "src": "assets/content/img/Steine_unscharf_IMG_0798.jpg",
+                                "stand": "assets/content/img/Steine_unscharf_IMG_0798.jpg"
+                            }
+                        ]
+                    },
+                    {
+                        "thumb": "assets/content/img/thumb/steine_scharf.png",
+                        "detail": [
+                            {
+                                "mediatype": "image",
+                                "desc": "Blende weit abgeblendet – hohe Schärfentiefe: f/32 – 1/30s – ISO200 – 50mm",
+                                "src": "assets/content/img/Steine_scharf_IMG_0797.jpg",
+                                "stand": "assets/content/img/Steine_scharf_IMG_0797.jpg"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "render_container": "right",
+                "type": "task",
+                "content": [
+                    {
+                        "src": "assets/content/texte/tiefenschaerfe.html"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Tonwertkorrektur",
+        "tags": "Gestalten mit Licht",
+        "thumbnail": "assets/img/thumb/tonwertkorrektur.png",
+        "content_items": [
+            {
+                "render_container": "left",
+                "type": "detail",
+                "content": [
+                    {
+                        "thumb": "assets/content/img/thumb/imbiss_rgb_orig.png",
+                        "detail": [
+                            {
+                                "mediatype": "image",
+                                "desc": "Imbissstand – Originalfoto",
+                                "src": "assets/content/img/imbiss_rgb_orig.jpg",
+                                "stand": "assets/content/img/imbiss_rgb_orig.jpg"
+                            }
+                        ]
+                    },
+                    {
+                        "thumb": "assets/content/img/thumb/imbiss_rgb_tw_01_stand.png",
+                        "detail": [
+                            {
+                                "mediatype": "image",
+                                "desc": "Imbissstand – Lichter und Tiefen zugezogen – Mitten gehen ein wenig verloren",
+                                "src": "assets/content/img/imbiss_rgb_tw_01.jpg",
+                                "stand": "assets/content/img/imbiss_rgb_tw_01_stand.jpg"
+                            }
+                        ]
+                    },
+                    {
+                        "thumb": "assets/content/img/thumb/imbiss_rgb_tw_02_stand.png",
+                        "detail": [
+                            {
+                                "mediatype": "image",
+                                "desc": "Imbissstand – Lichter und Tiefen zugezogen – Tiefen allerdings weniger",
+                                "src": "assets/content/img/imbiss_rgb_tw_02.jpg",
+                                "stand": "assets/content/img/imbiss_rgb_tw_02_stand.jpg"
+                            }
+                        ]
+                    },
+                    {
+                        "thumb": "assets/content/img/thumb/imbiss_rgb_tw_03_stand.png",
+                        "detail": [
+                            {
+                                "mediatype": "image",
+                                "desc": "Imbissstand – Lichter und Tiefen zugezogen – Mitten gegengesteuert",
+                                "src": "assets/content/img/imbiss_rgb_tw_03.jpg",
+                                "stand": "assets/content/img/imbiss_rgb_tw_03_stand.jpg"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "render_container": "right",
+                "type": "task",
+                "content": [
+                    {
+                        "src": "assets/content/texte/tonwertkorrektur.html"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Wasser in Bewegung",
+        "tags": "Gestalten mit Licht",
+        "thumbnail": "assets/img/thumb/wasser_in_bewegung.png",
+        "content_items": [
+            {
+                "render_container": "left",
+                "type": "detail",
+                "content": [
+                    {
+                        "thumb": "assets/content/img/thumb/Wasser_eingefroren_MG_0340.png",
+                        "detail": [
+                            {
+                                "mediatype": "image",
+                                "desc": "Wasserbewegung eingefroren: f/3,2 – 1/4000s – ISO3200 – 42mm",
+                                "src": "assets/content/img/Wasser_eingefroren_MG_0340.jpg",
+                                "stand": "assets/content/img/Wasser_eingefroren_MG_0340.jpg"
+                            }
+                        ]
+                    },
+                    {
+                        "thumb": "assets/content/img/thumb/Wasser_fliessend_MG_0344.png",
+                        "detail": [
+                            {
+                                "mediatype": "image",
+                                "desc": "Wasserbewegung fließend: f/14 – 1/40s – ISO400 – 42mm",
+                                "src": "assets/content/img/Wasser_fliessend_MG_0344.jpg",
+                                "stand": "assets/content/img/Wasser_fliessend_MG_0344.jpg"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "render_container": "right",
+                "type": "task",
+                "content": [
+                    {
+                        "src": "assets/content/texte/wasser.html"
+                    }
+                ]
+            }
+        ]
+    }
+]
