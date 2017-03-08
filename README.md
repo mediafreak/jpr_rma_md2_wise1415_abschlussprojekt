@@ -7,7 +7,7 @@ von Jenny Pilz-Rosenthal
 Abschlussprojekt der Module Mediendesign 2 und Rich Media Anwendungen im Wintersemester 2014/15 
 an der Beuth Hochschule für Technik, Berlin
 
-Anforderungen:
+Anforderungen an Projekt:
 ----------------------------------------
 - Übungen des Moduls Mediendesign 2 als Portfolio präsentieren
 - Desktop-Version
@@ -18,7 +18,7 @@ Anforderungen:
 - Templating mit HTML5 und Javascript
 - Canvas: einfache Filter in Detailansicht (Overlay) auf Bilder und Videos anwenden
 
-ToDos:
+ToDos für die Weiterentwicklung:
 ----------------------------------------
 - Responsive Webseite
 - Browser-History und URL-Design
