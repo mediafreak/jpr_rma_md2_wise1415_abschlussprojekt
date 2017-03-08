@@ -1,0 +1,220 @@
+/**
+ * ==================================================
+ * Custom-Stylesheet: css_typography.css
+ *
+ * @author		Jenny Pilz
+ * @date		2015/01
+ * @version		1.2
+ * ================================================== */
+
+/*-------------------------
+	Webfonts
+--------------------------*/
+
+@font-face {
+    font-family: 'tazsemilight';
+    src: url('../../webfonts/tazwt04-semilight-webfont.eot');
+    src: url('../../webfonts/tazwt04-semilight-webfont.eot?#iefix') format('embedded-opentype'),
+    url('../../webfonts/tazwt04-semilight-webfont.woff') format('woff'),
+    url('../../webfonts/tazwt04-semilight-webfont.ttf') format('truetype'),
+    url('../../webfonts/tazwt04-semilight-webfont.svg#tazsemilight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'tazregular';
+    src: url('../../webfonts/tazwt05-regular-webfont.eot');
+    src: url('../../webfonts/tazwt05-regular-webfont.eot?#iefix') format('embedded-opentype'),
+    url('../../webfonts/tazwt05-regular-webfont.woff') format('woff'),
+    url('../../webfonts/tazwt05-regular-webfont.ttf') format('truetype'),
+    url('../../webfonts/tazwt05-regular-webfont.svg#tazregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'tazbold';
+    src: url('../../webfonts/tazwt07-bold-webfont.eot');
+    src: url('../../webfonts/tazwt07-bold-webfont.eot?#iefix') format('embedded-opentype'),
+    url('../../webfonts/tazwt07-bold-webfont.woff') format('woff'),
+    url('../../webfonts/tazwt07-bold-webfont.ttf') format('truetype'),
+    url('../../webfonts/tazwt07-bold-webfont.svg#tazbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+/*-------------------------
+	General Styles
+--------------------------*/
+
+/* 11pt == 15px = 0.938em  */
+*{
+    font-family: tazregular,'Droid Sans', 'Helvetica Neue', Arial, 'Liberation Sans', FreeSans, sans-serif;
+    font-size: 0.938em;
+    letter-spacing: 0.015em;
+    color:#31313F;
+}
+
+h1,h2,h3,h4,h5,h6 {
+    font-family: tazbold,'Droid Sans', 'Helvetica Neue', Arial, 'Liberation Sans', FreeSans, sans-serif;
+    font-size: 1.2em;
+    letter-spacing: 0.04em;
+    font-style: normal;
+    font-weight: normal;
+}
+
+/* 11pt == 14px == 0.875em */
+p,
+#task ul li,
+#task ul ul li,
+#task ol li{
+    font-size:0.895em;
+    line-height: 125%;
+    color:#1E1E2A;
+}
+
+#task ul ul li{
+    font-size:1em;
+}
+
+#task strong {
+    font-family: tazbold,'Droid Sans', 'Helvetica Neue', Arial, 'Liberation Sans', FreeSans, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+}
+
+header li,
+#thumbnails li,
+#detail li,
+#nav_detail li,
+#pult li {
+    list-style: none;
+    display:block;
+    float:left;
+}
+
+header nav a {
+    color: #98989F;
+}
+
+header strong {
+    color:#98989F;
+    font-style: normal;
+    font-weight: normal;
+    letter-spacing: .03em;
+    line-height: 2em;
+}
+
+/* 11pt == 14px = 0.86em  */
+#thumbnails button strong {
+    font: .86em 'Segoe UI', tazregular, sans-serif;
+}
+
+ul {
+    text-align: left;
+}
+
+#light_box #text {
+    margin:-15px 0 8px 0;
+}
+#light_box #text ul {
+    margin-bottom:0;
+}
+#task ul,
+#task ol {
+     margin-left: 8px;
+ }
+
+#task ol {
+    margin-right: 8px;
+}
+
+#task ul {
+    list-style: disc inside;
+}
+#task ul ul {
+    list-style: circle inside;
+    margin-left: -4px;
+}
+
+/*----------------------------
+	Lightbox
+-----------------------------*/
+
+#light_box {
+    text-align: left;
+    line-height: 0;
+    font-weight: normal;
+}
+
+p#text {
+    padding-left: 10px;
+}
+
+p#text h2 {
+    margin-bottom: 10px;
+}
+
+p#text ul li {
+    line-height: 126%;
+}
+
+p#text ul li {
+    margin-top: 5px;
+}
+
+p#text ul ul li {
+    margin-top: 0;
+}
+
+#light_box h2 {
+    position: absolute;
+    text-align: left;
+    top: 7px;
+}
+
+#light_box p h2 {
+    position: relative;
+    top: 0;
+}
+
+/*----------------------------
+	Navigation filter bar
+-----------------------------*/
+
+/* 12pt == 16px = 1.000em  */
+header nav{
+    font:1.000em 'Segoe UI',tazregular, sans-serif;
+}
+
+header nav a {
+    color: #98989F;
+}
+
+header nav a:hover,
+header nav a.active,
+footer a:hover,
+footer a:active,
+input {
+    text-decoration:none;
+    color: #ECF56C;
+}
+
+nav#nav_detail {
+    text-align:center;
+}
+
+#nav_detail a {
+    color:#ABABB1;
+    float:right;
+}

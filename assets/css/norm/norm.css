@@ -1,0 +1,88 @@
+/**
+ * ==================================================
+ * Norm-Stylesheet: norm.css
+ *
+ * @author		Jenny Pilz, Natalia Prost
+ * @date		2014/04
+ * @version		1.0
+ * ================================================== */
+
+@media all {
+	/* Globales Zuruecksetzen der Innen- und Außenabstaende aller HTML-Elemente */
+	* {
+		margin: 0;
+		padding: 0;
+	}
+
+	/* Korrektur: Zu kleine Seöectboxen durch Zuruecksetzen der Abstaende. */
+	option {
+		padding-left: 0.4em;
+	}
+
+	select {
+		padding: 1px;
+	}
+
+	/* Standardfarben und Textausrichtung */
+	body {
+		background: #fff;
+		color: #000;
+		text-align: left;
+	}
+
+	/* Standard Eigenschaften für HTML5-Media-Elemente */
+	audio, canvas, video {
+		display: inline-block;
+	}
+
+	/* Keine Anzeige von <audio> ohne Kontrollelementen */
+	audio:not([controls]) {
+		display: none;
+	}
+
+	/* Verhindert automatische Textanpassung bei Orientierungswechsel (Zoom wird nicht blockiert) */
+	html {
+		-ms-text-size-adjust: 100%;
+		-webkit-text-size-adjust: 100%;
+	}
+
+	/* Löscht Rahmen für <fieldset> und <img> Elemente */
+	fieldset, img {
+		border: 0 solid;
+	}
+
+	/* Standardwerte für Listen, Tabellen und Zitate */
+	ul, ol, dl {
+		margin: 0 0 1em 1em;
+	}
+
+	li {
+		line-height: 1.5em;
+		margin-left: 0.8em;
+	}
+
+	dt {
+		font-weight: bold;
+	}
+
+	dd {
+		margin: 0 0 1em 0.8em;
+	}
+
+	blockquote {
+		margin: 0 0 1em 0.8em;
+	}
+
+	q {
+		quotes: none;
+	}
+
+	blockquote:before, blockquote:after, q:before, q:after {
+		content: none;
+	}
+
+	table {
+		border-collapse: collapse;
+		border-spacing: 0;
+	}
+}

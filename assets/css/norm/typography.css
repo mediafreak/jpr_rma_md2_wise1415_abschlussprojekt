@@ -1,0 +1,237 @@
+/**
+ * ==================================================
+ * Norm-Stylesheet: typography.css
+ *
+ *  Einheitliche Standardformatierungen für die wichtigsten Inhalts-Elemente (HTML5)
+ *
+ * @author		Jenny Pilz
+ * @date		2015/01
+ * @version		1.0
+ * ================================================== */
+
+@media all {
+	/* Alle Schriftgrößen auf Standardgröße (16 Pixel) zurücksetzen */
+	html * {
+		font-size: 100.1%;
+	}
+
+	/* Schriftgröße von monospaced Elemente in allen Browsern auf 16 Pixel setzen
+	 *
+	 * @see: http://webkit.org/blog/67/strange-medium/
+	 */
+	textarea, pre, code, kbd, samp, var, tt {
+		/*noinspection CssNoGenericFontName*/
+		font-family: Consolas, 'Lucida Console', 'Andale Mono', 'Bitstream Vera Sans Mono', 'Courier New', Courier;
+	}
+
+	/* Base-font-size: 16px; */
+	body {
+		font-family: 'Droid Sans', 'Helvetica Neue', Arial, 'Liberation Sans', FreeSans, sans-serif;
+		color: #444444;
+	}
+
+	/*--- Headings | Überschriften ------------------------------------------------------------------------*/
+	h1, h2, h3, h4, h5, h6 {
+		font-family: 'Droid Sans', 'Helvetica Neue', Arial, 'Liberation Sans', FreeSans, sans-serif;
+		color: #161e21;
+		margin: 0;
+	}
+
+	/* --- Lists | Listen  -------------------------------------------------------------------------------- */
+	ul, ol, dl {
+		line-height: 1.5;
+		margin: 0 0 1.5em 0;
+	}
+
+	ul {
+		list-style-type: disc;
+	}
+
+	ol {
+		list-style-type: decimal;
+	}
+
+	ul ul {
+		list-style-type: circle;
+		margin-top: 0;
+	}
+
+	ol ol {
+		list-style-type: lower-latin;
+		margin-top: 0;
+	}
+
+	ol ul {
+		list-style-type: circle;
+		margin-top: 0;
+	}
+
+	li {
+		line-height: 1.5;
+		margin-left: 1.2em;
+	}
+
+	dt {
+		font-weight: bold;
+	}
+
+	dd {
+		margin: 0 0 1.5em 0.8em;
+	}
+
+	/* --- general text formatting | Allgemeine Textauszeichnung ------------------------------------------ */
+	p {
+		font-size: 100.1%;
+		line-height: 0.800em;
+		margin: 0 0 10px 0;
+	}
+
+	blockquote, cite, q {
+		font-family: 'Droid Sans', 'Helvetica Neue', Arial, 'Liberation Sans', FreeSans, sans-serif;
+		font-style: italic;
+	}
+
+	blockquote {
+		background: transparent;
+		color: #666666;
+		margin: 1.5em 0 0 1.5em;
+	}
+
+	strong, b {
+		font-weight: bold;
+	}
+
+	em, i {
+		font-style: italic;
+	}
+
+	big {
+		line-height: 1.3125;
+	}
+
+	small {
+		/* font-size: 12px; */
+		font-size: 75%;
+		line-height: 1.75;
+	}
+
+	pre {
+		line-height: 1.5;
+		margin: 0 0 1.5em 0;
+		white-space: pre-wrap;
+		word-wrap: break-word;
+	}
+
+	pre, code {
+		color: #880000;
+	}
+
+	kbd, samp, var, tt {
+		color: #666666;
+		font-weight: bold;
+	}
+
+	var, dfn {
+		font-style: italic;
+	}
+
+	acronym, abbr {
+		border-bottom: 1px #aaa dotted;
+		font-variant: small-caps;
+		letter-spacing: .07em;
+		cursor: help;
+	}
+
+	sub, sup {
+		font-size: 75%;
+		line-height: 0;
+		position: relative;
+		vertical-align: baseline;
+	}
+
+	sup {
+		top: -0.5em;
+	}
+
+	sub {
+		bottom: -0.25em;
+	}
+
+	mark {
+		background: yellow;
+		color: black;
+	}
+
+	hr {
+		color: #fff;
+		background: transparent;
+		margin: 0 0 0.75em 0;
+		padding: 0 0 0.67857em 0;
+		border: 0;
+		border-bottom: 1px #eeeeee solid;
+	}
+
+	/*--- Links ----------------------------------------------------------------------------------------- */
+	a {
+		color: #4d87c7;
+		background: transparent;
+		text-decoration: none;
+	}
+
+	a:active {
+		outline: none;
+	}
+
+	/* Maximaler Kontrast für Tab Focus */
+	a:hover, a:focus {
+		/*background-color: #4d87c7;*/
+		color: white;
+		text-decoration: none;
+	}
+
+	/* --- images ------------------ */
+	img, figure {
+		margin: 0;
+	}
+
+	/* Generische Klassen für die Tabellenbreite und Gestaltungsvorschriften für Tabellen */
+	table {
+		width: 100%;
+		border-collapse: collapse;
+		color: #444444;
+		border-top: 1px #ccc solid;
+		border-bottom: 1px #ccc solid;
+		margin: 0 0 1.35714em 0;
+	}
+
+	caption {
+		font-variant: small-caps;
+	}
+
+	th, td {
+		line-height: 1.5em;
+		vertical-align: top;
+		padding: 0.71429em 0.5em;
+	}
+
+	th *:first-child, td *:first-child {
+		margin-top: 0;
+	}
+
+	thead th {
+		text-align: left;
+		color: #000;
+		border-bottom: 2px #000 solid;
+	}
+	tbody th {
+		text-align: left;
+		border-top: 1px solid #ccc;
+	}
+	tbody td {
+		text-align: left;
+		border-top: 1px solid #ccc;
+	}
+	tbody tr:hover th, tbody tr:hover td {
+		background: #f8f8f8;
+	}
+}
